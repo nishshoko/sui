@@ -743,7 +743,7 @@
       "name": "sui_syncAccountState",
       "tags": [
         {
-          "name": "Quorum Driver API"
+          "name": "Wallet Sync API"
         }
       ],
       "description": "Synchronize client state with validators.",
